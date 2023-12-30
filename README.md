@@ -1,4 +1,4 @@
-# Project Overview:
+<h1>Project Overview:</h1>
 This Data Analysis project explores the nuances of global happiness, focusing on GDP, perceptions of government corruption, and their impact on societal happiness. We analyze the variation of these factors between European and African countries to understand cultural differences in defining well-being.
 
 # Research Questions:
